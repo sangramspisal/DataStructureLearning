@@ -1,0 +1,27 @@
+### Java template
+
+*.class
+
+
+
+# Eclipse Related
+
+/bin/
+
+.classpath
+
+.project
+
+
+
+# Idea Related
+
+.idea
+
+/
+
+# Mac Related (also included in .gitignore_global)
+
+*~
+
+.DS_Stores
